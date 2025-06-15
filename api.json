@@ -9,7 +9,7 @@
     },
     {  
       "id": 1,"code": "cats1","name": "Gatinhos Fofos","author": "Leonel Miguins",
-      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/killua-sticker-api@main/packs/cats1/"
+      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/killua-sticker-api@master/packs/cats1/"
     },
         {  
       "id": 0,"code": "killua1","name": "Killua Pack","author": "Leonel Miguins",
