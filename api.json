@@ -1,7 +1,19 @@
 [
     {  
+      "id": 3,"code": "sex1","name": "Anime Girls Sexy","author": "Leonel Miguins",
+      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/killua-sticker-api@main/packs/sex1/"
+    },
+    {  
+      "id": 2,"code": "sonic1","name": "Sonic Pack","author": "Leonel Miguins",
+      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/killua-sticker-api@main/packs/sonic1/"
+    },
+    {  
+      "id": 1,"code": "cats1","name": "Gatinhos Fofos","author": "Leonel Miguins",
+      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/killua-sticker-api@main/packs/cats1/"
+    },
+        {  
       "id": 0,"code": "killua1","name": "Killua Pack","author": "Leonel Miguins",
-      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/gifs-venom-api@main/packs/killua1/"
+      "path": "https://cdn.jsdelivr.net/gh/LeonelMiguins/killua-sticker-api@main/packs/killua1/"
     }
   
 ]
