@@ -26,6 +26,8 @@ As informações dos pacotes são centralizadas no arquivo killua-sticker-api.js
 
 ### Você pode visualizar todos os packs disponíveis aqui:
 
+https://leonelmiguins.github.io/killua-sticker-api/html/index.html
+
 ---
 
 ## Importação e uso:
