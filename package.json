@@ -1,0 +1,21 @@
+{
+  "name": "killua-sticker-api",
+  "version": "1.0.0",
+  "description": "API para geração de stickers usando pacotes personalizados",
+  "main": "scripts/generate-json.js",
+  "scripts": {
+    "start": "node scripts/generate-json.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonelMiguins/killua-sticker-api.git"
+  },
+  "keywords": [],
+  "author": "Leonel Miguins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonelMiguins/killua-sticker-api/issues"
+  },
+  "homepage": "https://github.com/LeonelMiguins/killua-sticker-api#readme",
+  "type": "commonjs"
+}
