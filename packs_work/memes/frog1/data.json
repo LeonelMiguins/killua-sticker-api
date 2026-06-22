@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "memes.frog1",
+  "code": 527581,
+  "name": "Frog Reactions",
+  "description": "Pack de sapinho com expressões perfeitas para reação.",
+  "author": "Leonel Miguins",
+  "category": "memes",
+  "cover": "sticker_1.webp",
+  "tags": [
+    "memes",
+    "frog",
+    "reaction",
+    "funny"
+  ]
+}

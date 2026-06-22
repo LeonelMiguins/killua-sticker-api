@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "animals.dogs1",
+  "code": 100967,
+  "name": "Cachorrinhos Pack 1",
+  "description": "Cachorrinhos expressivos para conversas, humor e reação.",
+  "author": "Leonel Miguins",
+  "category": "animals",
+  "cover": "1.jpg",
+  "tags": [
+    "animals",
+    "dogs",
+    "cute",
+    "reaction"
+  ]
+}

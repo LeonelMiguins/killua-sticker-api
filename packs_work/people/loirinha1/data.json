@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "people.loirinha1",
+  "code": 142180,
+  "name": "Loirinha Pack 1",
+  "description": "Pack de retratos com foco em poses e estética leve.",
+  "author": "Leonel Miguins",
+  "category": "people",
+  "cover": "3e2b8fb53f7a45b85a.webp",
+  "tags": [
+    "people",
+    "portraits",
+    "cute",
+    "poses"
+  ]
+}

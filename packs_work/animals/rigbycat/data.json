@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "animals.rigbycat",
+  "code": 442109,
+  "name": "Gatinho Linguinha",
+  "description": "Gatinho fofo mostrando a linguinha para respostas divertidas.",
+  "author": "Isabella",
+  "category": "animals",
+  "cover": "13f41712-514c-4942-a061-97341adca9ac.webp",
+  "tags": [
+    "animals",
+    "cats",
+    "cute",
+    "reaction"
+  ]
+}

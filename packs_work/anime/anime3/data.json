@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "anime.anime3",
+  "code": 449045,
+  "name": "Anime Pack 3",
+  "description": "Pack de anime com foco em humor e reações visuais.",
+  "author": "Leonel Miguins",
+  "category": "anime",
+  "cover": "sticker-fan_19994970_m.webp",
+  "tags": [
+    "anime",
+    "reaction",
+    "funny",
+    "memes"
+  ]
+}

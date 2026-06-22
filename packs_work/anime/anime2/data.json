@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "anime.anime2",
+  "code": 339457,
+  "name": "Anime Pack 2",
+  "description": "Coleção variada de figurinhas de anime para reação.",
+  "author": "Leonel Miguins",
+  "category": "anime",
+  "cover": "1c503617-4c4b-496f-a32b-a2d17292f3fb.webp",
+  "tags": [
+    "anime",
+    "reaction",
+    "expressions",
+    "cute"
+  ]
+}
