@@ -5,6 +5,7 @@
   "scripts": {
     "build:catalog": "node scripts/build-catalog.js",
     "build:kpacks": "node scripts/build-kpacks.js",
+    "extract:kpacks": "node scripts/extract-kpacks.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

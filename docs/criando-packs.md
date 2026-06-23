@@ -9,6 +9,7 @@ O fluxo oficial é:
 3. rodar o build
 4. gerar os `.kpack` em `packs`
 5. atualizar o catálogo web
+6. se precisar, extrair os `.kpack` de volta para `packs_work`
 
 ## Estrutura das pastas
 
@@ -137,6 +138,36 @@ Esse comando:
 - cria um `.kpack` por pack em `packs/<categoria>/`
 - atualiza `html/catalog.json` e `html/covers/` para a vitrine web
 
+## Extração reversa dos packs
+
+Se você precisar reconstruir a pasta de trabalho a partir dos `.kpack` já gerados em `packs`, rode:
+
+```bash
+npm run extract:kpacks
+```
+
+Esse comando:
+
+- lê todos os arquivos `.kpack` dentro de `packs/<categoria>/`
+- recria a estrutura em `packs_work/<categoria>/<slug>/`
+- extrai `data.json` e todas as imagens do pack
+- recria cada pasta de pack do zero antes de extrair, para evitar mistura com arquivos antigos
+
+Exemplo de resultado:
+
+```text
+packs/
+  anime/
+    killua1.kpack
+
+packs_work/
+  anime/
+    killua1/
+      data.json
+      1.webp
+      2.webp
+```
+
 ## Saída final
 
 Exemplo de resultado:
@@ -171,11 +202,14 @@ Então o fluxo correto é sempre:
 2. rodar `npm run build:kpacks`
 3. consumir os packs pela API local
 
+Se você perder a pasta `packs_work`, pode reconstruí-la com `npm run extract:kpacks`.
+
 ## Cuidados ao atualizar packs
 
 - Se você mudar imagens ou metadados em `packs_work`, rode o build de novo.
 - A versão atual do build recompila todos os packs.
 - Se sua aplicação já estiver aberta, chame `clearCache()` na API depois do rebuild.
+- A extração trabalha na pasta `packs_work` singular, que é a pasta padrão usada pelo projeto.
 
 ## Checklist rápido
 
