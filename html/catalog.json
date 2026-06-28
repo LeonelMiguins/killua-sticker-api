@@ -1,5 +1,24 @@
 [
   {
+    "id": "animals.animals-dacing-ia",
+    "slug": "animais-dacando-ia",
+    "category": "animals",
+    "name": "Animais Dancando",
+    "description": "Pack de animais dançando para memes e reações leves.",
+    "author": "Leonel Miguins",
+    "tags": [
+      "animals",
+      "dancing",
+      "meme",
+      "cute"
+    ],
+    "code": 145877,
+    "adult": false,
+    "stickerCount": 8,
+    "coverUrl": "./covers/animals--animais-dacando-ia.webp",
+    "updatedAt": "2026-06-28T01:44:14.734Z"
+  },
+  {
     "id": "animals.animals1",
     "slug": "animals1",
     "category": "animals",
@@ -16,7 +35,7 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/animals--animals1.webp",
-    "updatedAt": "2026-06-22T12:15:14.572Z"
+    "updatedAt": "2026-06-28T01:44:14.981Z"
   },
   {
     "id": "animals.cats1",
@@ -35,7 +54,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/animals--cats1.webp",
-    "updatedAt": "2026-06-22T12:15:16.193Z"
+    "updatedAt": "2026-06-28T01:44:15.130Z"
   },
   {
     "id": "animals.dogs1",
@@ -54,7 +73,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/animals--dogs1.webp",
-    "updatedAt": "2026-06-22T12:15:17.141Z"
+    "updatedAt": "2026-06-28T01:44:15.263Z"
   },
   {
     "id": "animals.funnycats",
@@ -73,7 +92,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/animals--funnycats.webp",
-    "updatedAt": "2026-06-22T12:15:17.536Z"
+    "updatedAt": "2026-06-28T01:44:15.559Z"
   },
   {
     "id": "animals.rigbycat",
@@ -92,7 +111,7 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/animals--rigbycat.webp",
-    "updatedAt": "2026-06-22T12:15:18.012Z"
+    "updatedAt": "2026-06-28T01:44:16.012Z"
   },
   {
     "id": "anime.anigirls2",
@@ -111,7 +130,7 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/anime--anigirls2.webp",
-    "updatedAt": "2026-06-22T12:15:18.403Z"
+    "updatedAt": "2026-06-28T01:44:16.254Z"
   },
   {
     "id": "anime.anime1",
@@ -130,7 +149,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/anime--anime1.webp",
-    "updatedAt": "2026-06-22T12:15:18.831Z"
+    "updatedAt": "2026-06-28T01:44:16.516Z"
   },
   {
     "id": "anime.anime2",
@@ -149,7 +168,7 @@
     "adult": false,
     "stickerCount": 11,
     "coverUrl": "./covers/anime--anime2.webp",
-    "updatedAt": "2026-06-22T12:15:19.109Z"
+    "updatedAt": "2026-06-28T01:44:16.779Z"
   },
   {
     "id": "anime.anime3",
@@ -168,7 +187,7 @@
     "adult": false,
     "stickerCount": 11,
     "coverUrl": "./covers/anime--anime3.webp",
-    "updatedAt": "2026-06-22T12:15:19.262Z"
+    "updatedAt": "2026-06-28T01:44:16.929Z"
   },
   {
     "id": "anime.beijos-em-animes",
@@ -188,7 +207,45 @@
     "adult": false,
     "stickerCount": 14,
     "coverUrl": "./covers/anime--beijos-em-animes.webp",
-    "updatedAt": "2026-06-22T12:15:19.494Z"
+    "updatedAt": "2026-06-28T01:44:17.129Z"
+  },
+  {
+    "id": "anime.dormindo.2",
+    "slug": "dormindo-anime-2",
+    "category": "anime",
+    "name": "Personagens anime dormindo 2",
+    "description": "ah mimir novamnete zzz....",
+    "author": "Leonel Miguins",
+    "tags": [
+      "anime",
+      "reaction",
+      "expressions",
+      "cute"
+    ],
+    "code": 339357,
+    "adult": false,
+    "stickerCount": 10,
+    "coverUrl": "./covers/anime--dormindo-anime-2.webp",
+    "updatedAt": "2026-06-28T01:44:17.511Z"
+  },
+  {
+    "id": "anime.dormindo",
+    "slug": "dormindo-anime",
+    "category": "anime",
+    "name": "Personagens anime dormindo",
+    "description": "ah mimir zzz....",
+    "author": "Leonel Miguins",
+    "tags": [
+      "anime",
+      "reaction",
+      "expressions",
+      "cute"
+    ],
+    "code": 339457,
+    "adult": false,
+    "stickerCount": 10,
+    "coverUrl": "./covers/anime--dormindo-anime.webp",
+    "updatedAt": "2026-06-28T01:44:17.348Z"
   },
   {
     "id": "anime.friren1",
@@ -207,7 +264,7 @@
     "adult": false,
     "stickerCount": 11,
     "coverUrl": "./covers/anime--friren1.webp",
-    "updatedAt": "2026-06-22T12:15:19.662Z"
+    "updatedAt": "2026-06-28T01:44:17.687Z"
   },
   {
     "id": "anime.killua1",
@@ -226,7 +283,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/anime--killua1.webp",
-    "updatedAt": "2026-06-22T12:15:21.210Z"
+    "updatedAt": "2026-06-28T01:44:17.830Z"
   },
   {
     "id": "memes.altoem",
@@ -245,7 +302,7 @@
     "adult": false,
     "stickerCount": 13,
     "coverUrl": "./covers/memes--altoem.webp",
-    "updatedAt": "2026-06-22T12:15:39.158Z"
+    "updatedAt": "2026-06-28T01:44:17.991Z"
   },
   {
     "id": "memes.bolsolula",
@@ -264,7 +321,7 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/memes--bolsolula.webp",
-    "updatedAt": "2026-06-22T12:15:39.551Z"
+    "updatedAt": "2026-06-28T01:44:18.258Z"
   },
   {
     "id": "memes.emoji1",
@@ -283,7 +340,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/memes--emoji1.webp",
-    "updatedAt": "2026-06-22T12:15:40.901Z"
+    "updatedAt": "2026-06-28T01:44:18.422Z"
   },
   {
     "id": "memes.frog1",
@@ -302,7 +359,7 @@
     "adult": false,
     "stickerCount": 12,
     "coverUrl": "./covers/memes--frog1.webp",
-    "updatedAt": "2026-06-22T12:15:41.390Z"
+    "updatedAt": "2026-06-28T01:44:18.740Z"
   },
   {
     "id": "memes.pixelemoji",
@@ -321,7 +378,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/memes--pixelemoji.webp",
-    "updatedAt": "2026-06-22T12:15:41.780Z"
+    "updatedAt": "2026-06-28T01:44:18.911Z"
   },
   {
     "id": "memes.sigma1",
@@ -340,7 +397,7 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/memes--sigma1.webp",
-    "updatedAt": "2026-06-22T12:15:42.084Z"
+    "updatedAt": "2026-06-28T01:44:19.098Z"
   },
   {
     "id": "memes.sonic1",
@@ -359,7 +416,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/memes--sonic1.webp",
-    "updatedAt": "2026-06-22T12:15:43.389Z"
+    "updatedAt": "2026-06-28T01:44:19.267Z"
   },
   {
     "id": "people.coreaninha",
@@ -378,7 +435,7 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/people--coreaninha.webp",
-    "updatedAt": "2026-06-22T12:15:43.918Z"
+    "updatedAt": "2026-06-28T01:44:19.516Z"
   },
   {
     "id": "people.girls1",
@@ -397,7 +454,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/people--girls1.webp",
-    "updatedAt": "2026-06-22T12:15:46.023Z"
+    "updatedAt": "2026-06-28T01:44:19.640Z"
   },
   {
     "id": "people.girlscut1",
@@ -416,7 +473,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/people--girlscut1.webp",
-    "updatedAt": "2026-06-22T12:15:48.030Z"
+    "updatedAt": "2026-06-28T01:44:19.895Z"
   },
   {
     "id": "people.loirinha1",
@@ -435,7 +492,7 @@
     "adult": false,
     "stickerCount": 10,
     "coverUrl": "./covers/people--loirinha1.webp",
-    "updatedAt": "2026-06-22T12:15:48.438Z"
+    "updatedAt": "2026-06-28T01:44:20.166Z"
   },
   {
     "id": "people.lullychan",
@@ -454,7 +511,26 @@
     "adult": false,
     "stickerCount": 9,
     "coverUrl": "./covers/people--lullychan.webp",
-    "updatedAt": "2026-06-22T12:15:48.682Z"
+    "updatedAt": "2026-06-28T01:44:20.426Z"
+  },
+  {
+    "id": "people.michael.jackson",
+    "slug": "michael-jackson",
+    "category": "people",
+    "name": "Michael jackson",
+    "description": "Pack de figurinhas do querido michael jackson",
+    "author": "Leonel Miguins",
+    "tags": [
+      "people",
+      "dancing",
+      "meme",
+      "funny"
+    ],
+    "code": 145877,
+    "adult": false,
+    "stickerCount": 8,
+    "coverUrl": "./covers/people--michael-jackson.webp",
+    "updatedAt": "2026-06-28T01:44:20.613Z"
   },
   {
     "id": "people.sex-girls",
@@ -473,6 +549,6 @@
     "adult": false,
     "stickerCount": 8,
     "coverUrl": "./covers/people--sex-girls.webp",
-    "updatedAt": "2026-06-22T12:15:48.966Z"
+    "updatedAt": "2026-06-28T01:44:20.899Z"
   }
 ]
